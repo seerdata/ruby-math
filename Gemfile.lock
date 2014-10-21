@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    descriptive-statistics (2.1.2)
+    ruby-standard-deviation (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  descriptive-statistics
+  ruby-standard-deviation
